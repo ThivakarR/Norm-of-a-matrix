@@ -48,17 +48,11 @@ print(norm)
 ```
 ## Output:
 ### 1-Norm of a Matrix
-<br>
-<br>
-<br>
-```
 ![Screenshot 2023-06-11 164416](https://github.com/ThivakarR/Norm-of-a-matrix/assets/118707074/26c9d308-a113-4452-99b5-90ab3ce34a1e)
-```
+
 
 ### 2-Norm of a Matrix
-<br>
-<br>
-<br>
+
 ![Screenshot 2023-06-11 164425](https://github.com/ThivakarR/Norm-of-a-matrix/assets/118707074/4c353fb0-71de-442d-8949-971c842b3b2e)
 
 ### Infinity Norm of a Matrix
