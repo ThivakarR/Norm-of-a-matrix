@@ -52,13 +52,9 @@ print(norm)
 
 
 ### 2-Norm of a Matrix
-
 ![Screenshot 2023-06-11 164425](https://github.com/ThivakarR/Norm-of-a-matrix/assets/118707074/4c353fb0-71de-442d-8949-971c842b3b2e)
 
 ### Infinity Norm of a Matrix
-<br>
-<br>
-<br>
 ![Screenshot 2023-06-11 164439](https://github.com/ThivakarR/Norm-of-a-matrix/assets/118707074/80bfbec1-5e35-4958-b229-b9e008d2cefe)
 
 ## Result
