@@ -51,7 +51,9 @@ print(norm)
 <br>
 <br>
 <br>
-![Screenshot 2023-06-11 164416](https://github.com/ThivakarR/Norm-of-a-matrix/assets/118707074/0686bdbd-b9f2-4e1b-9562-9071af6a7697)
+```
+![Screenshot 2023-06-11 164416](https://github.com/ThivakarR/Norm-of-a-matrix/assets/118707074/26c9d308-a113-4452-99b5-90ab3ce34a1e)
+```
 
 ### 2-Norm of a Matrix
 <br>
